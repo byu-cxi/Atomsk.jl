@@ -1,7 +1,7 @@
 name = "Atomsk"
 uuid = "b5ea28c8-8fde-43cb-ab2a-66614f5bd9e2"
 authors = ["Jason Meziere"]
-version = "1.0.0-DEV"
+version = "0.0.1"
 
 [deps]
 Atomsk_jll = "eddcc1f7-2d42-55ad-abc0-463b4ff6875a"
