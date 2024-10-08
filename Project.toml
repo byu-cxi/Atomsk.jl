@@ -9,7 +9,7 @@ Preferences = "21216c6a-2e73-6563-6e65-726566657250"
 
 [compat]
 julia = "1.6.7"
-Atomsk_jll = "0.12.0+0"
+Atomsk_jll = "0.12.0"
 Preferences = "1.4.3"
 
 [extras]
